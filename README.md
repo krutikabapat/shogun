@@ -1,6 +1,7 @@
 # The SHOGUN machine learning toolbox
 -------------------------------------
-
+Pull Requests: Check some of my pull requests for shogun at https://github.com/shogun-toolbox/shogun/pulls    
+Issues: Check some of my raised issues for shogun at https://github.com/shogun-toolbox/shogun/issues    
 Unified and efficient Machine Learning since 1999.
 
 Latest release:
